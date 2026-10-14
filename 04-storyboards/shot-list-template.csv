@@ -1,0 +1,2 @@
+scene_id,shot_id,storyboard_file,shot_size,camera_angle,action,duration_seconds,transition_in,transition_out,prompt_id,clip_id,continuity_notes
+SC01,SC01-SH01,TODO,wide,eye-level,TODO,TODO,cut,cut,PROMPT001,CLIP001,TODO
