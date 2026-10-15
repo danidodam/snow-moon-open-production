@@ -4,11 +4,11 @@ Record the source text or official source-project URL here. Do not upload a full
 
 ## Source reference
 
-- Official project/source URL: TODO
+- Official project/source URL: (https://vitalik.eth.limo/snowmoon/html/chapter-1.html)
 - Source license URL: https://www.gnu.org/licenses/gpl-3.0.html (verify that this is the applicable license for the source)
 - Source version / date accessed: TODO
 - Required attribution: TODO
 
 ## Adaptation notes
 
-Explain how the source was translated into a screenplay, what was changed for screen, and how scenes were selected or condensed. Keep notes factual and distinguish original source text from your own commentary.
+The book Snow Moon by Vitalik was translated into a screenplay, ChatGpt was prompted to strategically turn the chapter into a Drama Script with the intention of turning it into a movie. So, Camera movements and lighting was requested in the Drama Script. 
