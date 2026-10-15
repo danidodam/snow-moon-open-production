@@ -1,6 +1,6 @@
 # Source material and adaptation
 
-Record the source text or official source-project URL here. Do not upload a full copy of copyrighted source material unless its license permits redistribution.
+https://vitalik.eth.limo/snowmoon/html/
 
 ## Source reference
 
