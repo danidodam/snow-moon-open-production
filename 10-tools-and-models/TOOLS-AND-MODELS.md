@@ -3,7 +3,7 @@
 | Tool / model | Version / date | Purpose | Settings worth recording | Official URL | Access / license notes |
 |---|---|---|---|---|---|
 | CapCut | TODO | Video editing and assembly | Export settings, effects used | https://www.capcut.com/ | Do not redistribute the software |
-| TODO | TODO | Image generation | TODO | TODO | TODO |
+| Google Flow | TODO | AI video generation | TODO | TODO | TODO |
 | TODO | TODO | Video generation | TODO | TODO | TODO |
 | TODO | TODO | Audio / sound | TODO | TODO | TODO |
 
