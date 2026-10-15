@@ -5,9 +5,8 @@ Record the source text or official source-project URL here. Do not upload a full
 ## Source reference
 
 - Official project/source URL: (https://vitalik.eth.limo/snowmoon/html/chapter-1.html)
-- Source license URL: https://www.gnu.org/licenses/gpl-3.0.html (verify that this is the applicable license for the source)
-- Source version / date accessed: TODO
-- Required attribution: TODO
+- Source license URL: https://www.gnu.org/licenses/gpl-3.0.html 
+
 
 ## Adaptation notes
 
