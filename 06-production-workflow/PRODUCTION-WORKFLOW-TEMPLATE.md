@@ -1,23 +1,23 @@
-# Production workflow — [version/date]
+# Production workflow 
 
 ## Goal
 
-TODO
+Generate a realistic movie
 
 ## Inputs
 
-- Script/scene IDs: TODO
-- Character reference files: TODO
-- Storyboard files: TODO
-- Prompts: TODO
+- Script/scene IDs: Moodbaoards from ChatGpt
+- Character reference files: Generated with ChatGpt
+- Storyboard files: Generated with ChatGpt 
+- Prompts: check prompts folder 
 
 ## Steps
 
-1. **Prepare:** TODO
-2. **Generate:** TODO
-3. **Review/select:** TODO
-4. **Assemble:** TODO
-5. **Finish/export:** TODO
+1. **Prepare:** 
+2. **Generate:** 
+3. **Review/select:** 
+4. **Assemble:** 
+5. **Finish/export:** 
 
 ## Quality-control checks
 
@@ -31,4 +31,4 @@ TODO
 
 ## Limitations and lessons learned
 
-TODO
+AI in the hands of a creative mind is the best thing that can happen to man. 
