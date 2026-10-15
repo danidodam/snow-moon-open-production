@@ -1,4 +1,4 @@
-# PROMPT001 — [short descriptive name]
+# PROMPT002 — [short descriptive name]
 
 - **Status:** exact prompt / reconstructed prompt
 - **Date used:** TODO
