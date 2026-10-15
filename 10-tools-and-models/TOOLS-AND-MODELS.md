@@ -1,11 +1,13 @@
 # Tools and models register
 
-| Tool / model | Version / date | Purpose  | Official URL | Access / license notes |
-|---|---|---|---|---|---|
+
 | CapCut Pro version | Windows PC | Video editing and assembly  | https://www.capcut.com/ | Do not redistribute the software |
-| Google Flow | web on PC | AI video generation | TODO | TODO |
-| ChatGPT | Free Version | Mood Board and Character generation. I also used it to restructure the Chapter one into a Drama script with Acts and  scenes  | ChatGpt.com | TODO | TODO |
-| TODO | TODO | Audio / sound | TODO | TODO | TODO |
+
+
+| Google Flow | web on PC | AI video generation | Googleflow.com | TODO |
+
+| ChatGPT | Free Version | Mood Board and Character generation. I also used it to restructure the Chapter one into a Drama script with Acts and  scenes  | ChatGpt.com |
+
 
 ## Limitations
 
