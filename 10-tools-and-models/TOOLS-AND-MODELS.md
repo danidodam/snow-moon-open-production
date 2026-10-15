@@ -1,7 +1,7 @@
 # Tools and models register
 
 
-| CapCut Pro version | Windows PC | Video editing and assembly  | https://www.capcut.com/ | Do not redistribute the software |
+| CapCut Pro version | Windows PC | Video editing and Sound Effects  | https://www.capcut.com/ | Do not redistribute the software |
 
 
 | Google Flow | web on PC | AI video generation | Googleflow.com | TODO |
