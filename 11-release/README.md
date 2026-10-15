@@ -4,9 +4,6 @@ Link to the final film and record each public release here. Confirm that you hav
 
 - **Film title:** Snow Moon
 - **Episode / cut:** TODO
-- **Release date:** TODO
-- **Public viewing URL:** TODO
-- **Runtime:** TODO
-- **Resolution / frame rate:** TODO
-- **Repository commit or release tag:** TODO
-- **Known limitations:** TODO
+- **Release date:** 15th of October
+- **Public viewing URL:** https://youtu.be/QvtYSptWRwA
+
