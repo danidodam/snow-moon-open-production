@@ -1,6 +1,6 @@
 # Tools and models
 
-Google Flow 
-Capcut Pro
-ChatGpt
+1. Google Flow 
+2. Capcut Pro
+3. ChatGpt
 
